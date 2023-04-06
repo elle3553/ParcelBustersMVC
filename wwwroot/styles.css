@@ -1,0 +1,13 @@
+﻿Signup body {
+    background-image: url("signupBG.svg");
+    background-size: 98%;
+}
+
+footer {
+    text-align: center;
+}
+
+.utslogo {
+    height: 5%;
+    width: 10%;
+}
